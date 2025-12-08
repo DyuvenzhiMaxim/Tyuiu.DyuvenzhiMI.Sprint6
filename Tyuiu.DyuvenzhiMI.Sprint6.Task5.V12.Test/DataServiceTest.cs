@@ -1,5 +1,4 @@
-﻿
-using Tyuiu.DyuvenzhiMI.Sprint6.Task5.V12.Lib;
+﻿using Tyuiu.DyuvenzhiMI.Sprint6.Task5.V12.Lib;
 
 namespace Tyuiu.DyuvenzhiMI.Sprint6.Task5.V12.Tet
 {
