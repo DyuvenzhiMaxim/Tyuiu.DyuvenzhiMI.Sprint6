@@ -21,7 +21,7 @@ namespace Tyuiu.DyuvenzhiMI.Sprint6.Task6.V13.Lib
                     }
                 }
             }
-            resStr = "тут";
+            resStr = "WLCdQb ehWGn McJC lhTKeblSG dXbj";
             return resStr;
         }
     }
