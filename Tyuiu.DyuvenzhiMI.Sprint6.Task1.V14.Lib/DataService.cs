@@ -20,7 +20,7 @@ namespace Tyuiu.DyuvenzhiMI.Sprint6.Task1.V14.Lib
                 else
                 {
                     double y = ((2 * x + 6) / (Math.Cos(x) + x)) - 3;
-                    ValueArray[count] = Math.Abs(Math.Round(y, 2));
+                    ValueArray[count] = Math.Round(y, 2);
                     count++;
                 }
             }
