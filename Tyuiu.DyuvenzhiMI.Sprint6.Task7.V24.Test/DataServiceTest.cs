@@ -12,7 +12,7 @@ namespace Tyuiu.DyuvenzhiMI.Sprint6.Task7.V24.Test
             string path = @"D:\programming\repos\Tyuiu.DyuvenzhiMI.Sprint6\Tyuiu.DyuvenzhiMI.Sprint6.Task7.V24\bin\Debug\net8.0-windows\InPutDataFileTask7V24.csv";
             int[,] mas = ds.GetMatrix(path);
 
-            CollectionAssert.AreEqual(mas,mas);
+            CollectionAssert.AreEqual(mas,mas); 
         }
     }
 }

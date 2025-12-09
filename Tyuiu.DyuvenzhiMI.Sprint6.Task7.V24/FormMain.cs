@@ -32,7 +32,7 @@ namespace Tyuiu.DyuvenzhiMI.Sprint6.Task7.V24
                 colums = lines[0].Split(';').Length;
 
                 // Выделите массив данных
-                int[,] arrayValues = new int[rows, colums];
+                int[,] arrayValues = new int[rows, colums]; 
 
 
                 // Заполняем массив данных
